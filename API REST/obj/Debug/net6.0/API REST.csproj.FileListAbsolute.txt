@@ -1,0 +1,39 @@
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\appsettings.json
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\API REST.exe
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\API REST.deps.json
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\API REST.runtimeconfig.json
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\API REST.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\API REST.pdb
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jpedr\source\repos\API REST\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.csproj.AssemblyReference.cache
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.AssemblyInfoInputs.cache
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.AssemblyInfo.cs
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.csproj.CoreCompileInputs.cache
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets\msbuild.API REST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets\msbuild.build.API REST.props
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API REST.props
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API REST.props
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\scopedcss\bundle\API REST.styles.css
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.csproj.CopyComplete
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.dll
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\refint\API REST.dll
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.pdb
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\API REST.genruntimeconfig.cache
+C:\Users\jpedr\source\repos\API REST\obj\Debug\net6.0\ref\API REST.dll
